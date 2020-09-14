@@ -1,0 +1,32 @@
+{
+    "products": [
+        { "_id": "main1",
+            "title": "Main 1",
+            "image": "/images/avo.jpeg",
+            "description": "about ain 1",
+            "availableSizes": ["XL","XXL"],
+            "price": 19.2
+        },
+        { "_id": "main2",
+            "title": "Main 2",
+            "image": "/images/macand.jpeg",
+            "description": "about ain 2",
+            "availableSizes": ["XL","XXL"],
+            "price": 20.3
+        },
+        { "_id": "main3",
+            "title": "Main 3",
+            "image": "/images/pork.jpeg",
+            "description": "about ain 3",
+            "availableSizes": ["XL","XXL"],
+            "price": 21.4
+        },
+        { "_id": "main4",
+            "title": "Main 4",
+            "image": "/images/pasta.jpeg",
+            "description": "about ain 3",
+            "availableSizes": ["XL","XXL"],
+            "price": 21.5
+        }
+    ]
+}
